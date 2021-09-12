@@ -2,7 +2,7 @@
 
 This is my build of [st](https://st.suckless.org).
 
-## patches
+## Patches
 
 * [st-xresources](https://st.suckless.org/patches/xresources/st-xresources-20200604-9ba7ecf.diff)
 * [st-scrollback](https://st.suckless.org/patches/scrollback/st-scrollback-0.8.4.diff)
